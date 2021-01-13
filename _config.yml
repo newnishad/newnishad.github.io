@@ -61,8 +61,8 @@ topics:
     
   - name: Node.js
     web_url: https://nodejs.org
-    image_url: https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png
     
   - name: Django
     web_url: https://www.djangoproject.com
-    image_url: https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png
+    image_url: https://www.fullstackpython.com/img/logos/django.png
