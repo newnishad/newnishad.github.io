@@ -58,3 +58,11 @@ topics:
   - name: Flutter
     web_url: https://flutter.dev/
     image_url: https://www.gstatic.com/images/branding/product/2x/flutter_96dp.png
+    
+  - name: Node.js
+    web_url: https://nodejs.org
+    image_url: https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png
+    
+  - name: Django
+    web_url: https://www.djangoproject.com
+    image_url: https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png
