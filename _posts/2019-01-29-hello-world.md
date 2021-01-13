@@ -1,5 +1,6 @@
 ---
 title: "Demo Jekyll article"
+permalink: "demo-jekyll-post"
 published: true
 ---
 
