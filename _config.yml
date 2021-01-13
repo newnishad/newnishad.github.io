@@ -27,6 +27,8 @@ projects:
     forks: true
     projects:
       - newnishad
+      - Goods-Distribution-System
+      - SMS-Ticket-Booking-System
 
 social_media:
   # behance: your_username
